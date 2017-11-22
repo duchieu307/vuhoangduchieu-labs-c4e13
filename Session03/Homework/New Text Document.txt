@@ -1,0 +1,19 @@
+1. Once a funtion defined, it can be use many times again. You can invoke your funtion many times in your program, 
+which can save your work.
+2. 	Step 1: Declare the function with the keyword def followed by the function name.
+	Step 2: Write the arguments inside the opening and closing parentheses of the function, and end the 
+declaration with a colon.
+	Step 3: Add the program statements to be executed.
+	Step 4: End the function with/without return statement.
+3. Just write from file import function, and then call the function using function(a, b)
+4. Return is a funtion. We use return to keep our output values, Python always wants to return something. So if the
+programmer doesn’t arrange to return a value, Python will automatically return the value None.
+5. I thinh we don't need to use return in every funtions.
+6. Funtion Argument is a value rovided to a function when the function is called. This value is assigned
+to the corresponding parameter in the function.
+   The argument can be the result of an
+expression which may involve operators, operands and calls to other fruitful functions.
+   We call a funtion ex: funtion(a,b), a and b are funtion arguments
+7.	Step 1: We must "call" this file: from (filename) import (funtion)
+	Step 2: Then when we need to use it, just set a variable for it anh "call" it out
+		Ex: i = funtion(a,b)
